@@ -1,4 +1,6 @@
 # Helium - A WordPress Experiment
+
+[![Join the chat at https://gitter.im/royboy789/helium](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/royboy789/helium?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A place to talk about WordPress, what you want to see changed. The name `Helium` may be changed in the near future.
   
 On June 16th, [JJJ](https://twitter.com/JJJ) and [royboy789](https://twitter.com/royboy789) hosted a hangout session talking about bring back BackPress, as a new inner core library for WordPress removing or modularizing WordPress.  
